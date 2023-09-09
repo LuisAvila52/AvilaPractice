@@ -1,6 +1,6 @@
-# Define variables de diferentes tipos primitivos
+# Definir cada variables de diferentes tipos primitivos..
 
-nombre = ("LUIS")
+nombre = ("LUIS AVILA")
 edad = 22
 estudia = True
 estatura = 1.88
