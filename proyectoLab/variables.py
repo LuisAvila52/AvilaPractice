@@ -13,5 +13,5 @@ estatura = 1.88
 # Convertir las variables a cadenas y concatenarlas
 resultado = nombre + " " + str(edad) + " "  + str(estudia) + " "  + str(estatura)
 
-# Imprimir el resultado
+# Imprimir el resultados
 print(resultado)
